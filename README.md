@@ -12,7 +12,7 @@ For create mock files
 go generate ./...
 ```
 
-Also you can run tests in  
+Also you can run tests
 ```shell
 go test ./...
 ```
